@@ -1,3 +1,8 @@
+/**
+ * Renders the About page of the application.
+ *
+ * @returns {JSX.Element} The About page component.
+ */
 export default function About() {
   return (
     <div className="p-8">

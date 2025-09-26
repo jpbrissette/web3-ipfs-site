@@ -1,3 +1,8 @@
+/**
+ * Renders the Home page of the application.
+ *
+ * @returns {JSX.Element} The Home page component.
+ */
 export default function Home() {
   return (
     <div className="p-8">
